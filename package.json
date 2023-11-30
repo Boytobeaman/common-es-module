@@ -1,0 +1,11 @@
+{
+  "name": "common-es-module",
+  "version": "1.0.0",
+  "description": "a demo module that support both by import and require",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
