@@ -1,5 +1,5 @@
 {
-  "name": "common-es-module",
+  "name": "@my-username-lxc/common-es-module",
   "version": "1.0.0",
   "description": "a demo module that support both by import and require",
   "main": "app.mjs",
