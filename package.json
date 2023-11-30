@@ -1,6 +1,6 @@
 {
   "name": "common-es-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a demo module that support both by import and require",
   "main": "app.mjs",
   "scripts": {
