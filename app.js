@@ -1,4 +1,4 @@
-import { addTwo } from './src/addTwo.mjs';
+import { addTwo } from './src/addTwo.js';
 
 
 const square = i => i*i;
